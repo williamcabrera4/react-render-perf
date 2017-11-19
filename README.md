@@ -19,13 +19,13 @@ npm install --save react-render-perf
 
 ## Example
 #### Mini demo
-![example](https://github.com/williamcabrera4/react-render-perf/blob/master/images/demo.gif)
+![https://github.com/williamcabrera4/react-render-perf/blob/master/images/demo.gif](https://github.com/williamcabrera4/react-render-perf/blob/master/images/demo.gif)
 
 #### Console Report
-![consolereport](https://github.com/williamcabrera4/react-render-perf/blob/master/images/consoleReport.png)
+![https://github.com/williamcabrera4/react-render-perf/blob/master/images/consoleReport.png](https://github.com/williamcabrera4/react-render-perf/blob/master/images/consoleReport.png)
 
 #### UI Report
-![uireport](https://github.com/williamcabrera4/react-render-perf/blob/master/images/uiReport.png)
+![https://github.com/williamcabrera4/react-render-perf/blob/master/images/uiReport.png](https://github.com/williamcabrera4/react-render-perf/blob/master/images/uiReport.png)
 
 
 ## Description
