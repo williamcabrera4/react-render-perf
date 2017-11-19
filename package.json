@@ -3,6 +3,8 @@
   "version": "0.1.1",
   "description": "Monitor your component render time and check if we are making unnecessary render calls",
   "main": "./lib/index.js",
+  "author": "William Marcel Cabrera Santana",
+  "license": "ISC",
   "scripts": {
     "build": "node_modules/.bin/webpack",
     "lint": "node_modules/.bin/eslint src/"
@@ -17,8 +19,6 @@
     "react-render",
     "react-hoc"
   ],
-  "author": "William Marcel Cabrera Santana",
-  "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4"
   },
