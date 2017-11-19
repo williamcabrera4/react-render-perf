@@ -33,7 +33,7 @@ You can use the `MonitorRender` to decorate any React component and monitor the 
 support `Stateless` components.
 
 
-##### Options:
+## Options:
  - `disable {Boolean}` - if we want to disable the monitor in case we want to push our app to production.
  - `consoleReport {Boolean}` - enable the console report.
  - `uiReport {Boolean}` - enable the UI report.
