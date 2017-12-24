@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/williamcabrera4/react-render-perf.svg?branch=master)](https://travis-ci.org/williamcabrera4/react-render-perf)
+
 <div align=center>
 
 # React Render Perf
